@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/oppo/RMX1805" name="RMX1805/device_oppo_RMX1805" remote="github" revision="lineage-18.1" />
-  <project path="vendor/oppo" name="RMX1805/vendor_oppo" remote="github" revision="lineage-18.1" />
+  <project path="device/realme/RMX1801" name="baibhab34/device_realme_RMX1801-1" remote="github" revision="los" />
+  <project path="vendor/realme" name="baibhab34/vendor_realme-1" remote="github" revision="r11" />
+  <project path="kernel/realme/sdm660" name="baibhab34/RMX1801" remote="github" revision="eas3" />
 </manifest>
