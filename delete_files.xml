@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+# Framework base
+  <remove-project name="frameworks/base"/>
+  <project path="frameworks/base" name="baibhab34/android_frameworks_base-1" remote="github" revision="test" />
+</manifest>
